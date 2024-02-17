@@ -1,0 +1,5 @@
+{
+    "userRegistrationSuccessfulMessage": "User registration successful.",
+    "userAlreadyExistsMessage": "User with this email already exists.",
+    "userNotFoundMessage": "User not found."
+}
